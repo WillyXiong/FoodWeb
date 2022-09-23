@@ -328,6 +328,7 @@ section {
     background: white;
 }
 
+/* making the website responsive*/
 @media (max-width: 1560px) {
     header {
         padding: 15px 40px;
